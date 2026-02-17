@@ -1,6 +1,5 @@
 # Mallikarjun Atanoor
-🔗 **Aboue me:**  
-[View My Portfolio](https://mallikarjun-atanoor.github.io/)
+🔗 [About me](https://mallikarjun-atanoor.github.io/)
 
 ### DevOps Enthusiasts • Site Reliability Engineering • Cloud Infrastructure
 
