@@ -1,7 +1,8 @@
 # Mallikarjun Atanoor
-https://mallikarjun-atanoor.github.io/
+🔗 **Aboue me:**  
+[View My Portfolio](https://mallikarjun-atanoor.github.io/)
 
-### Site Reliability Engineering • DevOps • Cloud Infrastructure
+### DevOps Enthusiasts • Site Reliability Engineering • Cloud Infrastructure
 
 DevOps Engineer with 3+ years of experience in managing cloud native applications on AWS.  
 Focused on reliability engineering, automation, infrastructure as code and observability.
