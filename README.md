@@ -1,7 +1,7 @@
 <h1 align="center">Mallikarjun Atanoor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Site+Reliability+Engineer;DevOps+Engineer;Cloud+Infrastructure+Specialist;AWS+%7C+Kubernetes+%7C+Terraform;Reliability+%7C+Automation+%7C+Observability" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Site+Reliability Engineering ;DevOps Enthusiast +;Cloud Infrastructure+IAM Opearations;+Specialist;AWS+%7C+Kubernetes+%7C+Terraform;Reliability+%7C+Automation+%7C+Observability" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ Focused on:
 ## Technology Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="55"/>
@@ -56,15 +56,4 @@ Focused on:
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mallikarjun-Atanoor&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## Architecture Projects
-
-### CI/CD Pipeline Architecture
 
