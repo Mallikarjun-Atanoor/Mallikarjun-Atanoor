@@ -1,38 +1,40 @@
-<h1 align="center">Mallikarjun Atanoor</h1>
+# Mallikarjun Atanoor
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Site+Reliability Engineering ;DevOps Enthusiast +;Cloud Infrastructure+IAM Opearations;+Specialist;AWS+%7C+Kubernetes+%7C+Terraform;Reliability+%7C+Automation+%7C+Observability" />
-</p>
+### Site Reliability Engineering • DevOps • Cloud Infrastructure
+
+DevOps Engineer with 3+ years of experience in managing cloud native applications on AWS.  
+Focused on reliability engineering, automation, infrastructure as code and observability.
 
 ---
 
-## About Me
+## Engineering Focus Areas
 
-DevOps Engineer with 3+ years of experience building and operating reliable cloud infrastructure on AWS.
-
-Focused on:
-
-- Infrastructure as Code  
-- Production reliability  
-- CI/CD automation  
-- Incident management  
-- Observability engineering  
-- Disaster recovery strategy  
+- AWS cloud
+- Terraform: Infrastructure as Code
+- Kubernetes & Container Orchestration
+- CI/CD Pipeline Implementation
+- Incident & Major Incident Management
+- Disaster Recovery Planning
+- Monitoring & Observability (Prometheus)
+- Cloud Security & IAM Controls
+- SRE Practices
+- Cloud cost optimization
+- Git
 
 ---
 
 ## Technology Stack
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="50"/>
 </p>
 
 ---
@@ -40,20 +42,12 @@ Focused on:
 ## Certifications
 
 - **AWS Certified Solutions Architect – Associate**  
-  🔗 [Verify Credential](YOUR_SAA_CERT_LINK)
+  [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/0266362db11f47c69ae1433718904e26)
 
 - **AWS Certified DevOps Engineer – Professional**  
-  🔗 [Verify Credential](YOUR_DEVOPS_CERT_LINK)
+  [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/6242c13ed1e248f887fe21f2ee7bd356)
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-Atanoor&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjun-Atanoor&theme=github-dark&hide_border=true" height="170"/>
-</p>
-
 ---
-
 
