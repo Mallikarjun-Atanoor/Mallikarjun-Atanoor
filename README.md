@@ -1,4 +1,4 @@
-# Mallikarjun Atanoor [Portfolio](https://mallikarjun-atanoor.github.io/)
+# Mallikarjun Atanoor                                                                                    [Portfolio](https://mallikarjun-atanoor.github.io/)
 
 ### 2× AWS Certified Professional • Terraform • Docker • Kubernetes • Linux • Site Reliability • DevOps • Cloud Engineer
 
