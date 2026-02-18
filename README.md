@@ -1,7 +1,8 @@
 # Mallikarjun Atanoor
-🔗 [About me](https://mallikarjun-atanoor.github.io/)
 
-### 2×AWS Certifed Professional • Terraform • Docker • Kubernetes • Linux • Site Reliability, DevOps & Cloud Engineer
+[Portfolio](https://mallikarjun-atanoor.github.io/)
+
+### 2× AWS Certified Professional • Terraform • Docker • Kubernetes • Linux • Site Reliability • DevOps • Cloud Engineer
 
 DevOps Engineer with 3+ years of experience in managing cloud native applications on AWS.  
 Focused on reliability engineering, automation, infrastructure as code and observability.
