@@ -1,7 +1,7 @@
 # Mallikarjun Atanoor
 🔗 [About me](https://mallikarjun-atanoor.github.io/)
 
-### DevOps Enthusiasts • Site Reliability Engineering • Cloud Infrastructure
+### 2×AWS Certifed Professional • Terraform • Docker • Kubernetes • Linux • Site Reliability, DevOps & Cloud Engineer
 
 DevOps Engineer with 3+ years of experience in managing cloud native applications on AWS.  
 Focused on reliability engineering, automation, infrastructure as code and observability.
@@ -10,17 +10,16 @@ Focused on reliability engineering, automation, infrastructure as code and obser
 
 ## Engineering Focus Areas
 
-- AWS cloud
-- Terraform: Infrastructure as Code
-- Kubernetes & Container Orchestration
-- CI/CD Pipeline Implementation
-- Incident & Major Incident Management
+- Cloud: AWS
+- Infrastructure as Code: Terraform
+- Containerization & Orchestration: Docker, Kubernetes
+- CI/CD: Git, Jenkins
+- Incident & Major Incident Management: BMC Remedy
 - Disaster Recovery Planning
-- Monitoring & Observability (Prometheus)
-- Cloud Security & IAM Controls
+- Monitoring, Observability: Prometheus, Graphana
+- Cloud Security & IAM
 - SRE Practices
 - Cloud cost optimization
-- Git
 
 ---
 
@@ -36,6 +35,7 @@ Focused on reliability engineering, automation, infrastructure as code and obser
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
 </p>
 
 ---
