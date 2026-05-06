@@ -8,12 +8,12 @@
 - Infrastructure as Code: Terraform
 - Containerization & Orchestration: Docker, Kubernetes
 - CI/CD: Git, Jenkins
-- Incident & Major Incident Management: BMC Remedy
+- ITSM, Incident & Major Incident Management: BMC Remedy, ServviceNow
 - Disaster Recovery Planning
-- Monitoring, Observability: Prometheus, Graphana
+- Monitoring, Observability: Prometheus, Graphana, Datadog
 - Cloud Security & IAM
 - SRE Practices
-- Cloud cost optimization
+- Cloud cost optimization: Aptio
 
 ---
 
