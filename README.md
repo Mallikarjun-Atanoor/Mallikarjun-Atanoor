@@ -10,7 +10,7 @@
 - CI/CD: Git, Jenkins
 - ITSM, Incident & Major Incident Management: BMC Remedy, ServviceNow
 - Disaster Recovery Planning
-- Monitoring, Observability: Prometheus, Graphana, Datadog
+- Monitoring, Observability: Prometheus, Grafana, Datadog
 - Cloud Security & IAM
 - SRE Practices
 - Cloud cost optimization: Aptio
